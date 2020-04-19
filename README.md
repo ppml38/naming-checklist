@@ -12,7 +12,7 @@ Google translate may help you here. Rememeber, Same language but different slang
 - [ ] Does your app name give appropriate meaning when we use it in a sentence (of any language)
 - [ ] Does a same/similar/suitable website domain name available   
 - [ ] Does any other app(May be unpopular or regionally popular) already available in your targetted platform   
-- [ ] Does any other app available in other platform/package index/appstore thatn your targetted one   
+- [ ] Does any other app available in other platform/package index/appstore thats not your targetted one   
 - [ ] Is your app name copyrighted or already trade marked   
 - [ ] Does your app icon resembles an existing app
 - [ ] IF your app name is an abbreviation. Did you try to find possible other expansions.
